@@ -125,31 +125,31 @@ npm test
 
 - GitHub: [@githubhandle](https://github.com/ProgramKingAbel)
 - Twitter: [@twitterhandle](https://twitter.com/CeoAbel1)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/abel-morara/
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/abel-morara/)
 
 👤 **Alex Waweru**
 
 - GitHub: [@githubhandle](https://github.com/AleWaweru)
 - Twitter: [@twitterhandle](https://twitter.com/home)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/alewaweru/
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/alewaweru/)
+
+👤 **Sahalu Aminu**
+
+- GitHub: [@sahlminkok](https://github.com/sahlminkok)
+- Twitter: [@sahlminkok](https://twitter.com/sahlminkok)
+- LinkedIn: [Sahalu Aminu](https://www.linkedin.com/in/sahlminkok/)
 
 👤 **Enobong Isong**
 
 - GitHub: [@githubhandle](https://github.com/Enoisong)
 - Twitter: [@twitterhandle](https://twitter.com/Enobongmisong)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/enobong-isong/
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/enobong-isong/)
 
 👤 **Peter Dumbar**
 
 - GitHub: [@githubhandle](https://github.com/Peter-Dumbari)
 - Twitter: [@twitterhandle](https://twitter.com/PeterDumbari)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/peterdumbari/
-
-👤 **Sahalu Aminu**
-
-- GitHub: [@githubhandle](https://github.com/sahlminkok)
-- Twitter: [@twitterhandle](https://twitter.com/sahlminkok)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/sahlminkok/
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/peterdumbari/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
