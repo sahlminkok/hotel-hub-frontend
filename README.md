@@ -1,6 +1,8 @@
-# Hotel Hub (Final Capstone)
-
 <a id="readme-top"></a>
+
+<div align="center">
+  <h1>Hotel Hub</h1>
+</div>
 
 # 📗 Table of Contents
 
@@ -83,7 +85,7 @@ In order to run this project, you need to:
 Clone this repository to your desired folder:
 
 ```
-  git clone https://github.com/ProgramKingAbel/hotel-hub-frontend.git
+  git clone https://github.com/sahlminkok/hotel-hub-frontend.git
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -166,7 +168,7 @@ npm test
 
 Contributions, issues, as well as feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/ProgramKingAbel/hotel-hub-frontend/issues).
+Feel free to check the [issues page](https://github.com/sahlminkok/hotel-hub-frontend/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
